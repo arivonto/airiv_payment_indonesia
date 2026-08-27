@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+    <record id="payment_provider_midtrans" model="payment.provider">
+        <field name="name">Midtrans (QRIS, GoPay, ShopeePay, Virtual Account, CC)</field>
+        <field name="code">midtrans</field>
+        <field name="state">test</field>
+        <field name="is_published">True</field>
+    </record>
+    <record id="payment_provider_xendit" model="payment.provider">
+        <field name="name">Xendit (QRIS, OVO, DANA, Virtual Account, Retail)</field>
+        <field name="code">xendit</field>
+        <field name="state">test</field>
+        <field name="is_published">True</field>
+    </record>
+    <record id="payment_provider_paypal_rest" model="payment.provider">
+        <field name="name">PayPal REST v2 (USD, EUR, SGD Cross-Border Settlement)</field>
+        <field name="code">paypal_rest</field>
+        <field name="state">test</field>
+        <field name="is_published">True</field>
+    </record>
+</odoo>
