@@ -11,7 +11,7 @@ Indonesia Tri-Gateway Payment Engine for Odoo 18 Community.
 - PayPal REST v2 (USD, EUR, SGD Multi-Currency Cross-Border Settlement)
 - Direct Webhook Controllers with Zero External Server Overhead
 """,
-    'author': 'Riv Cloud Management',
+    'author': 'AIRIV',
     'website': 'https://airiv.id',
     'url': 'https://github.com/arivonto/airiv_payment_indonesia/blob/18.0/static/description/index.html',
     'license': 'LGPL-3',
