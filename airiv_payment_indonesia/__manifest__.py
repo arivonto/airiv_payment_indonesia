@@ -13,6 +13,7 @@ Indonesia Tri-Gateway Payment Engine for Odoo 18 Community.
 """,
     'author': 'Riv Cloud Management',
     'website': 'https://airiv.id',
+    'url': 'https://github.com/arivonto/airiv_payment_indonesia/blob/18.0/static/description/index.html',
     'license': 'LGPL-3',
     'price': 0.0,
     'currency': 'EUR',

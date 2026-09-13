@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Indonesia Tri-Gateway Payment Acquirers (Midtrans, Xendit, PayPal)',
+    'name': 'AIRIV Indonesia Tri-Gateway Payment Acquirers (Midtrans, Xendit, PayPal)',
     'version': '18.0.1.0.0',
-    'category': 'Accounting/Payment Providers',
+    'category': 'AIRIV/Payment Infrastructure',
     'summary': 'Unified Tri-Gateway Payment Engine for Indonesia (Midtrans, Xendit, PayPal v2)',
     'description': """
 Indonesia Tri-Gateway Payment Engine for Odoo 18 Community.
@@ -13,6 +13,7 @@ Indonesia Tri-Gateway Payment Engine for Odoo 18 Community.
 """,
     'author': 'Riv Cloud Management',
     'website': 'https://airiv.id',
+    'url': 'https://github.com/arivonto/airiv_payment_indonesia/blob/18.0/static/description/index.html',
     'license': 'LGPL-3',
     'price': 0.0,
     'currency': 'EUR',
